@@ -1,2 +1,2 @@
 # Grupo-5-Projeto
-Nosso Projeto do 4-Periodo do Cesar
+Repositório para desenvolvimento do projeto do Grupo 5
